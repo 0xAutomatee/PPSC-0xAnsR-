@@ -1,3 +1,4 @@
+```Bash
 MATHEMATICS_APTITUDE_MASTER_FORMULAS/
 │
 ├── 00_Basic_Arithmetic_And_BODMAS/
@@ -750,3 +751,5 @@ MATHEMATICS_APTITUDE_MASTER_FORMULAS/
         │
         └── Integral_Of_Cos
             └── ∫cos x dx=sin x+C
+
+```
